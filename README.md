@@ -44,11 +44,11 @@ AutoMile is an intelligent vehicle management system that leverages IoT, machine
 
 | Dashboard | Travel Forecast |
 |-----------|-----------------|
-| ![Dashboard](preview/dashboard.jpeg) | ![Forecast](preview/forecast.jpeg) |
+| ![Dashboard](public/preview/dashboard.jpeg) | ![Forecast](public/preview/forecast.jpeg) |
 
 | Chatbot | Part Recommender |
 |--------|------------------|
-| ![Chatbot](preview/chatbot.jpeg) | ![Parts](preview/parts-recommender.jpeg) |
+| ![Chatbot](public/preview/chatbot.jpeg) | ![Parts](public/preview/parts-recommender.jpeg) |
 
 ---
 
