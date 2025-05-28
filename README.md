@@ -2,7 +2,7 @@
 
 AutoMile is an intelligent vehicle management system that leverages IoT, machine learning, NLP, and cloud technologies to optimize vehicle maintenance, tracking, and decision-making. Designed with a modern, responsive UI, AutoMile helps vehicle owners and fleet managers stay proactive about performance, safety, and operational costs.
 
-![Dashboard Preview](preview/dashboard.jpeg)
+![Dashboard Preview](public/preview/dashboard.jpeg)
 
 ---
 
